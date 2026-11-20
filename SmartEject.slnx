@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SmartEject.Core\SmartEject.Core.csproj" />
+  <Project Path="SmartEject.Windows\SmartEject.Windows.csproj" />
+  <Project Path="SmartEject.App\SmartEject.App.csproj" />
+</Solution>

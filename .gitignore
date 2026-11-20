@@ -1,0 +1,12 @@
+# Local .NET SDK (installed per-machine, ~775 MB)
+.dotnet/
+
+# Build output
+bin/
+obj/
+
+# IDE / user files
+.vs/
+.vscode/
+*.user
+*.suo

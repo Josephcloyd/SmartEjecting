@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType><UseWPF>true</UseWPF><AssemblyName>SmartEject</AssemblyName><RootNamespace>SmartEject.App</RootNamespace></PropertyGroup>
+  <ItemGroup><ProjectReference Include="..\SmartEject.Core\SmartEject.Core.csproj" /><ProjectReference Include="..\SmartEject.Windows\SmartEject.Windows.csproj" /></ItemGroup>
+</Project>
